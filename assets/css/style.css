@@ -1,0 +1,41 @@
+.wrapper {
+    width:600px;
+    padding:20px;
+    margin: 0 auto;
+}
+
+.anna {
+    position:static;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: static;
+    right:0;
+    top:o;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    color:darkgrey;
+}
+
+
+.wrapper {
+    background-color:pink;
+}
