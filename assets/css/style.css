@@ -1,4 +1,27 @@
+body {
+    background-image: url(../images/pipes.png)
+}
+
 .wrapper {
+    width:600px;
+    padding:20px;
+    margin: 0 auto;
+    background-color:white;
+
+}
+
+header {
+    position:relative;
+}
+
+nav {
+    position:absolute;
+    right:0;
+    bottom:10px;
+}
+
+
+.content {
     width:600px;
     padding:20px;
     margin: 0 auto;
@@ -20,7 +43,7 @@ ul {
 }
 
 li {
-    float: left;
+    float:left;
 }
 
 li a {
