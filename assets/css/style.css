@@ -10,8 +10,27 @@ body {
 
 }
 
+/* h1 {
+    background: #4aaaa5;
+   position: absolute;
+   top: -15px;
+   left: 160px;
+   color: #ffffff;
+   font-weight: bold;
+   font-family: "Georgia", Times, "Times New Roman", serif;
+   font-size: 22px;
+   float: left;
+   height: 70px;
+   width: 160px;
+   padding: 15px;
+   padding-top: 20px;
+} */
+
+
 header {
     position:relative;
+    width:600px;
+    margin: 0 auto;
 }
 
 nav {
@@ -61,6 +80,7 @@ li a:hover {
 
 .wrapper {
     background-color:pink;
+    width:100%;
 }
 
 /* THIS HAS TO DO WITH THE CARDS */
