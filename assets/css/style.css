@@ -3,12 +3,14 @@ body {
 }
 
 .wrapper {
-    width:600px;
+    width:960px;
     padding:20px;
     margin: 0 auto;
     background-color:white;
     padding:50px;
     position:relative;
+    background-color:pink;
+    width:100%;
 
 }
 
@@ -40,19 +42,19 @@ h1 {
 
 header {
     position:relative;
-    width:600px;
+    width:960px;
     margin: 0 auto;
 }
 
 nav {
     position:absolute;
-    right:0;
+    right:20px;
     bottom:-30px;
 }
 
 
 .content {
-    width:600px;
+    width:960px;
     padding:20px;
     margin: 0 auto;
     background-color:lightgrey;
@@ -93,11 +95,6 @@ li a:hover {
 }
 
 
-.wrapper {
-    background-color:pink;
-    width:100%;
-}
-
 /* THIS HAS TO DO WITH THE CARDS */
 .card {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -114,12 +111,14 @@ li a:hover {
 }
 
 
+
+
 .card {
     width:200px;
 }
 
-/* 
-#hangman {
+
+/* #hangman {
     position:absolute;
     left:0;
     top:0;
@@ -131,7 +130,6 @@ li a:hover {
     top:0;
 }
 
-
 #trivia {
     position:absolute;
 }
@@ -142,7 +140,10 @@ li a:hover {
 
 #rock {
     position:absolute;
-}  */
+}  
+
+ */
+
 
 .footer {
     position: static;
@@ -152,4 +153,8 @@ li a:hover {
     background-color: pink;
     color: darkgrey;
     text-align: center;
+ }
+
+ hr {
+     width:100%;
  }
