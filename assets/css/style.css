@@ -122,31 +122,44 @@ li a:hover {
 }
 
 
-/* #hangman {
-    position:absolute;
+
+
+
+
+
+/* 
+#hangman {
+    
     left:0;
     top:0;
 }
+ 
 
 #rpg {
-    position:absolute;
+  
     right:0;
     top:0;
-}
+} */
 
-#trivia {
+/* #trivia {
     position:absolute;
-}
+} */
 
-#rutgers {
+/* #rutgers {
     position:absolute;
 }
 
 #rock {
     position:absolute;
-}  
+}   */
 
- */
+ 
+
+
+
+
+
+
 
 
 .footer {
